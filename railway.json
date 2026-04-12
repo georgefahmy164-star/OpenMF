@@ -3,6 +3,6 @@
     "builder": "nixpacks"
   },
   "deploy": {
-    "startCommand": "python flask-backend/run.py"
+    "startCommand": "python3 flask-backend/run.py"
   }
 }
